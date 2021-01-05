@@ -1,0 +1,44 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+}
+
+#first-h1 {
+    font-size: 75px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+}
+
+.half-width {
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.firstline-highlight-violet {
+    color: #363958;
+}
+
+.secondline-highlight-orange {
+    color: #FF8367;
+}
+
+.link_button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    padding: 10px 20px;
+}
+
+.h1about {
+    font-size: 42px;
+}
