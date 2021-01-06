@@ -12,12 +12,22 @@ p {
     color: #3E3E3E;
 }
 
+h1 {
+    color: #414466;
+}
+
+a {
+    text-decoration: none;
+}
+
+.height-added {
+    height: 700px;
+}
+
 .half-width {
     float: left;
     width: 40%;
-    margin-left: 5%;
-    margin-top: 5%;
-    margin-right: 5%;
+    margin: 5%;
 }
 
 .half-width img {
@@ -25,7 +35,7 @@ p {
 }
 
 .firstline-highlight-violet {
-    color: #363958;
+    color: #414466;
 }
 
 .secondline-highlight-orange {
@@ -41,4 +51,43 @@ p {
 
 .h1about {
     font-size: 42px;
+}
+
+.text-centered {
+    text-align: center;
+    font-size: 37px;
+}
+
+.alomost-orange-color {
+    color: #F46060;
+}
+
+.one-third-width {
+    height: 330px;
+    width: 30%;
+    float: left;
+    margin-right: 2%;
+    box-shadow: 0.1px 0.1px 10px gray;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: white;
+}
+
+strong {
+    font-size: 23px;
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+}
+
+div p {
+    font-size: 14px;
+}
+
+.margin-added {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+div img {
+    width: 100%;
 }
