@@ -75,8 +75,8 @@ a {
 
 strong {
     font-size: 23px;
-    font-family: 'Roboto', sans-serif;
-    color: #363958;
+    font-family: 'Roboto', sans-serif; 'Bebas Neue', cursive;
+    color: #696871;
 }
 
 div p {
@@ -91,3 +91,21 @@ div p {
 div img {
     width: 100%;
 }
+
+
+#fourth-section {
+    height: 300px;
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+}
+#centering {
+    padding-left: 400px;
+    padding-top: 130px;
+}
+#centering1 {
+    padding-left: 830px;
+    padding-bottom: 250px;
+}
+
